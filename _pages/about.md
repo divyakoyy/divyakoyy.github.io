@@ -8,7 +8,7 @@ profile:
   align: right
   image: assets/img/profile_pic.JPG
   image_cicular: false # crops the image to make it circular
-  address: 
+  address:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
