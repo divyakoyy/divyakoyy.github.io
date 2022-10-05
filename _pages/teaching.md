@@ -28,3 +28,6 @@ Duke Technology Scholars Program
 
 High School Catalyst Program @ Weill Cornell/MSK
 * Mentor (2022-present) - I mentor New York high school students from self-reported underrepresented background in a summer biomedical research experience where we guide the mentee in writing their own NSF style research proposal.
+
+Tri-Institutional Mentor Initiative	Weill Cornell/MSK
+* Mentor (2022-present) - I guide students through the PhD application process, which includes helping them choose programs, reading their essays and CV, and conducting mock interviews.
