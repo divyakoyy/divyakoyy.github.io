@@ -1,6 +1,6 @@
 ---
 layout: post
-date: June 2019
+date: November 2021
 inline: true
 ---
-I presented at [Apple's World Wide Developers' Conference](https://developer.apple.com/videos/play/wwdc2019/218/) on new features the HealthKit team developed.
+We presented an abstract at [MLCB](https://sites.google.com/cs.washington.edu/mlcb2021/home) on [scGraphReg](https://drive.google.com/file/d/1Ys8D78MYTNyL545SxNSk9svxa5d7rrq9/view?usp=sharing), a model which learns gene regulation in single cells using multiomics and chromatin interactions.
