@@ -21,6 +21,7 @@ As an undergraduate TA, I taught a weekly discussion section, tutored students i
 
 
 **Mentorship**
+
 Tri-Institutional Mentor Initiative	@ Weill Cornell/MSK
 * Mentor (2022-present) - I guide students through the PhD application process, which includes helping them choose programs, reading their essays and CV, and conducting mock interviews.
 
