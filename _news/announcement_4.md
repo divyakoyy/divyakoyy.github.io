@@ -1,7 +1,7 @@
 ---
 layout: post
-date: July 2023
+date: December 2025
 inline: true
 ---
 
-I was awarded the Best Poster Award at the ICML Computational Biology Workshop for our work "Gradient-based Migration History Inference of Metastatic Cancers".
+Our paper on [Inferring cancer type-specific patterns of metastatic spread](https://www.nature.com/articles/s41592-025-02924-8) was published in Nature Methods.
