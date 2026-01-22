@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: I'm passionate about teaching both in and out of the classroom.
 nav: true
 nav_order: 5
@@ -21,13 +21,13 @@ As an undergraduate TA, I taught a weekly discussion section, tutored students i
 
 
 **Mentorship**
+Tri-Institutional Mentor Initiative	@ Weill Cornell/MSK
+* Mentor (2022-present) - I guide students through the PhD application process, which includes helping them choose programs, reading their essays and CV, and conducting mock interviews.
 
 Duke Technology Scholars Program
-* VP of Mentorship (2022-present) - I manage the nationwide mentorship program and connect undergraduate women with Duke alumnae working in various industries.
+* President (2024-) - I oversee the Alumni Executive Board, managing alumni events and programming.
+* VP of Mentorship (2022-2024) - I manage the nationwide mentorship program and connect undergraduate women with Duke alumnae working in various industries.
 * Mentor (2019-present) - I mentor undergraduate Duke women to help guide them through the technical and professional aspects of their tech internships.
 
 High School Catalyst Program @ Weill Cornell/MSK
 * Mentor (2022-present) - I mentor New York high school students from self-reported underrepresented background in a summer biomedical research experience where we guide the mentee in writing their own NSF style research proposal.
-
-Tri-Institutional Mentor Initiative	@ Weill Cornell/MSK
-* Mentor (2022-present) - I guide students through the PhD application process, which includes helping them choose programs, reading their essays and CV, and conducting mock interviews.
